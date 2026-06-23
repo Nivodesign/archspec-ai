@@ -1,0 +1,243 @@
+{
+  "material_matrix": {
+    "cladding": {
+      "name": "Cladding & Siding",
+      "Standard": 8.00,
+      "Mid-Range": 16.00,
+      "Premium": 35.00
+    },
+    "roofing": {
+      "name": "Roofing",
+      "Standard": 6.00,
+      "Mid-Range": 12.00,
+      "Premium": 28.00
+    },
+    "glazing": {
+      "name": "Windows & Glazing",
+      "Standard": 15.00,
+      "Mid-Range": 35.00,
+      "Premium": 75.00
+    },
+    "openings_ext": {
+      "name": "Exterior Doors",
+      "Standard": 4.00,
+      "Mid-Range": 10.00,
+      "Premium": 25.00
+    },
+    "insulation_ext": {
+      "name": "Exterior Insulation",
+      "Standard": 3.00,
+      "Mid-Range": 6.00,
+      "Premium": 12.00
+    },
+    "decking_patio": {
+      "name": "Decking & Patios",
+      "Standard": 12.00,
+      "Mid-Range": 24.00,
+      "Premium": 48.00
+    },
+    "framing_ext": {
+      "name": "Exterior Structural Framing",
+      "Standard": 18.00,
+      "Mid-Range": 28.00,
+      "Premium": 45.00
+    },
+    "foundation": {
+      "name": "Concrete Foundation",
+      "Standard": 22.00,
+      "Mid-Range": 32.00,
+      "Premium": 55.00
+    },
+    "masonry": {
+      "name": "Brick & Masonry Work",
+      "Standard": 14.00,
+      "Mid-Range": 22.00,
+      "Premium": 42.00
+    },
+    "landscaping": {
+      "name": "Hardscaping & Paving",
+      "Standard": 10.00,
+      "Mid-Range": 25.00,
+      "Premium": 60.00
+    },
+    "flooring": {
+      "name": "Finished Flooring",
+      "Standard": 5.00,
+      "Mid-Range": 12.00,
+      "Premium": 25.00
+    },
+    "wall_finish": {
+      "name": "Drywall & Wall Prep",
+      "Standard": 4.00,
+      "Mid-Range": 8.00,
+      "Premium": 15.00
+    },
+    "ceilings": {
+      "name": "Ceiling Finishes",
+      "Standard": 3.00,
+      "Mid-Range": 6.00,
+      "Premium": 12.00
+    },
+    "openings_int": {
+      "name": "Interior Doors & Frames",
+      "Standard": 3.00,
+      "Mid-Range": 7.00,
+      "Premium": 18.00
+    },
+    "millwork": {
+      "name": "Trim, Baseboards & Casing",
+      "Standard": 4.00,
+      "Mid-Range": 9.00,
+      "Premium": 22.00
+    },
+    "cabinetry": {
+      "name": "Custom Millwork & Cabinets",
+      "Standard": 15.00,
+      "Mid-Range": 35.00,
+      "Premium": 80.00
+    },
+    "countertops": {
+      "name": "Countertops",
+      "Standard": 10.00,
+      "Mid-Range": 25.00,
+      "Premium": 65.00
+    },
+    "plumbing": {
+      "name": "Plumbing Fixtures",
+      "Standard": 5.00,
+      "Mid-Range": 12.00,
+      "Premium": 30.00
+    },
+    "lighting": {
+      "name": "Lighting & Fixtures",
+      "Standard": 4.00,
+      "Mid-Range": 10.00,
+      "Premium": 28.00
+    },
+    "insulation_int": {
+      "name": "Interior Thermal & Sound Insulation",
+      "Standard": 2.00,
+      "Mid-Range": 4.00,
+      "Premium": 9.00
+    },
+    "hvac": {
+      "name": "HVAC Systems",
+      "Standard": 10.00,
+      "Mid-Range": 18.00,
+      "Premium": 32.00
+    },
+    "electrical": {
+      "name": "Rough-in Electrical & Wiring",
+      "Standard": 8.00,
+      "Mid-Range": 14.00,
+      "Premium": 25.00
+    },
+    "framing_int": {
+      "name": "Interior Partition Framing",
+      "Standard": 7.00,
+      "Mid-Range": 12.00,
+      "Premium": 20.00
+    },
+    "vanities": {
+      "name": "Bathroom Vanities",
+      "Standard": 5.00,
+      "Mid-Range": 12.00,
+      "Premium": 28.00
+    },
+    "hardware": {
+      "name": "Door & Cabinet Hardware",
+      "Standard": 2.00,
+      "Mid-Range": 5.00,
+      "Premium": 12.00
+    },
+    "paint": {
+      "name": "Painting & Wallcoverings",
+      "Standard": 3.00,
+      "Mid-Range": 6.00,
+      "Premium": 12.00
+    }
+  },
+  "builders": [
+    {
+      "name": "GTA Reno Experts",
+      "bracket": "Standard",
+      "rating": 4.6,
+      "contact": "contact@gtarenoexperts.ca",
+      "phone": "+1 (416) 555-0199",
+      "description": "Affordable renovations, basements, kitchens, and extensions in the GTA.",
+      "tags": ["Renovations", "Basements", "Affordable", "Fast Turnaround"]
+    },
+    {
+      "name": "Scarborough Builders & Co.",
+      "bracket": "Standard",
+      "rating": 4.4,
+      "contact": "info@scarboroughbuilders.ca",
+      "phone": "+1 (416) 555-0144",
+      "description": "Value-driven framing, drywall, interior partition adjustments, and decks.",
+      "tags": ["Framing", "Drywall", "Decks", "Scarborough"]
+    },
+    {
+      "name": "Etobicoke Contracting",
+      "bracket": "Standard",
+      "rating": 4.5,
+      "contact": "service@etobicokecontracting.ca",
+      "phone": "+1 (416) 555-0155",
+      "description": "Reliable residential updates, tiling, painting, and basic home upgrades.",
+      "tags": ["Tiling", "Painting", "Residential Updates", "West Toronto"]
+    },
+    {
+      "name": "York Region Custom Homes",
+      "bracket": "Mid-Range",
+      "rating": 4.8,
+      "contact": "build@yorkregioncustom.ca",
+      "phone": "+1 (905) 555-0288",
+      "description": "Medium-scale custom home additions, cladding updates, and modern renovations.",
+      "tags": ["Additions", "Exterior Cladding", "York Region", "Modern Build"]
+    },
+    {
+      "name": "Core Toronto Design-Build",
+      "bracket": "Mid-Range",
+      "rating": 4.7,
+      "contact": "info@coretorontodb.ca",
+      "phone": "+1 (416) 555-0211",
+      "description": "Architectural renovations, urban lofts, structural alterations, and design sync.",
+      "tags": ["Architectural Reno", "Lofts", "Structural", "Downtown Toronto"]
+    },
+    {
+      "name": "High Park Construction Group",
+      "bracket": "Mid-Range",
+      "rating": 4.7,
+      "contact": "office@highparkconstruction.ca",
+      "phone": "+1 (416) 555-0299",
+      "description": "Premium interior fit-outs, insulation overhauls, and structural additions.",
+      "tags": ["Interior Fit-out", "Insulation", "Premium Trim", "GTA-wide"]
+    },
+    {
+      "name": "Lorne Park Custom Homes",
+      "bracket": "Luxury Custom Home Builders",
+      "rating": 4.95,
+      "contact": "estates@lorneparkhomes.ca",
+      "phone": "+1 (905) 555-0395",
+      "description": "Elite luxury residential construction, bespoke design-build, and estate creation.",
+      "tags": ["Luxury Estates", "Mississauga/Oakville", "Bespoke Design", "Award Winning"]
+    },
+    {
+      "name": "Bridle Path Estates Group",
+      "bracket": "Luxury Custom Home Builders",
+      "rating": 4.9,
+      "contact": "concierge@bridlepathestates.ca",
+      "phone": "+1 (416) 555-0310",
+      "description": "Bespoke architectural execution, ultra-premium materials, and luxury project management.",
+      "tags": ["Bespoke Architecture", "Premium Finishes", "Estate Management", "Toronto"]
+    },
+    {
+      "name": "Toronto Prestige Homes",
+      "bracket": "Luxury Custom Home Builders",
+      "rating": 4.8,
+      "contact": "prestige@torontoprestige.ca",
+      "phone": "+1 (416) 555-0388",
+      "description": "High-end custom architecture, contemporary facades, and luxury smart homes.",
+      "tags": ["Modern Architecture", "Smart Homes", "Bespoke Cladding", "Luxury Interior"]
+    }
+  ]
+}
