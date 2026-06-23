@@ -1,6 +1,6 @@
 # ArchSpec AI: Autonomous Architectural Material Specification & Multi-Tier Procurement Marketplace
 
-An enterprise-grade, non-linear AI state-graph workflow tailored for the AEC (Architecture, Engineering, and Construction) industry. This platform automates building material visual extraction, cost-estimation matrix processing, and smart routing for local vendor procurement.
+An enterprise-grade, non-linear AI state-graph workflow tailored for the AEC (Architecture, Engineering, and Construction) industry. This platform automates building material visual extraction, cost-estimation matrix processing, and smart routing for vendor procurement.
 
 ## 🛠️ Architecture & Core Components
 
