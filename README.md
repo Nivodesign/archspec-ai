@@ -18,3 +18,23 @@ An enterprise-grade, non-linear AI state-graph workflow tailored for the AEC (Ar
 
 ---
 *Developed under the Business Automation & Workflows Track.*
+
+## ⚙️ Local Deployment & Quick Start
+
+Follow these steps to spin up the multi-agent graph environment and the local FastAPI dashboard on your machine:
+
+### 1. Clone the Repository
+* `git clone https://github.com/Nivodesign/archspec-ai.git`
+* `cd archspec-ai`
+
+### 2. Set Up Environment Variables
+Create a `.env` file in the root directory and add your Gemini API key:
+* `GOOGLE_API_KEY=your_gemini_api_key_here`
+* `PORT=8000`
+
+### 3. Install Dependencies & Boot the Platform
+Install the required packages and run the application server:
+* `pip install -r requirements.txt`
+* `python main_dashboard.py`
+
+Once started, the independent multi-agent platform and UI gateway will be fully operational at: http://127.0.0.1:8000/
